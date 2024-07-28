@@ -15,6 +15,8 @@ Este repositório tem como objetivo armazenar os desafios e exercícios feitos d
 - Abstração
 - Polimorfismo
 - Interfaces
+- Collections
+- Stream API
 
 
 ## 💻 Desafios
